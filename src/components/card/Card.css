@@ -1,0 +1,14 @@
+.calculate-container{
+    display: flex;
+    gap: 10px;
+   margin-bottom: 20px;
+    background-color: gray;
+    padding: 20px;
+    border-radius: 20px;
+  
+}
+.calculate-img{
+    width: 60px;
+    border-radius: 40px;
+    
+}
